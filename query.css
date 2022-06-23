@@ -1,0 +1,44 @@
+@media screen and (max-width: 600px){
+  
+}
+.myDiv{
+   font-size: x-small;
+    text-align: center;
+    margin-right:175px;
+    margin-left: 135px;
+
+}
+p{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 25px;
+   
+}
+h1{
+    
+    text-align: center;
+    margin-left: 25%;
+    margin-top: auto;
+}
+#rcorners2 {
+    margin-right: 35%;
+   margin-top: 215px;
+	color: white;
+	text-align:bottom;
+  border-radius: 45px;
+  background: #DF6D14;
+  padding: 11px;
+  width: 290px;
+  height: 20px;
+  
+}
+body{
+    background-image:url("image/Group 6.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;/*definir la position de l'image de l'arriere plan si elle est fixée*/
+    background-position-x: 40%;/*definir la position horizontale d'arriere plan*/
+    background-position-y: 85%;/*definir la position verticale de l'arriere plan*/
+    background-size: 45%;
+    
+}
+
